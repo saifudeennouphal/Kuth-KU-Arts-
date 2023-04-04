@@ -1,2 +1,2 @@
-# Ku_sports
-# Ku sports app
+# Kuth 
+# Kerala University Arts Festival
